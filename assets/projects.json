@@ -1,0 +1,35 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "Programacion-BackEnd",
+      "description": "Desarrollo de APIs y servicios backend con Python",
+      "language": "Python"
+    },
+    {
+      "repo": "Programacion-FrontEnd",
+      "description": "Interfaces web responsivas - Tercer semestre INACAP",
+      "language": "HTML"
+    },
+    {
+      "repo": "Sistema-Operativo",
+      "description": "Administración de Windows y GNU/Linux en ámbito empresarial",
+      "language": "Shell"
+    },
+    {
+      "repo": "POO_IEC",
+      "description": "Programación Orientada a Objetos - Certificación IEC-170-N2",
+      "language": "Python"
+    },
+    {
+      "repo": "M.S.I",
+      "description": "Modelamiento de Soluciones Informáticas",
+      "language": "Python"
+    },
+    {
+      "repo": "F.-Hardware-y-Software",
+      "description": "Fundamentos de hardware, instalación y configuración Linux/Windows",
+      "language": "Shell"
+    }
+  ]
+}

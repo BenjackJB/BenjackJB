@@ -1,0 +1,12 @@
+{
+  "title": "Lenguajes & Tecnologías",
+  "_comment": "Basado en repos reales de GitHub. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    { "label": "Python",     "value": 90 },
+    { "label": "JavaScript",  "value": 70 },
+    { "label": "TypeScript",  "value": 55 },
+    { "label": "HTML/CSS",    "value": 60 },
+    { "label": "SQL",         "value": 65 },
+    { "label": "PHP",         "value": 45 }
+  ]
+}

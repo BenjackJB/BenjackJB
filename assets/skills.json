@@ -1,0 +1,14 @@
+{
+  "title": "Habilidades de Ciberseguridad",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Python",            "value": 85 },
+    { "label": "Linux / Unix",      "value": 80 },
+    { "label": "Redes",             "value": 75 },
+    { "label": "Bases de Datos",    "value": 72 },
+    { "label": "Backend",           "value": 70 },
+    { "label": "Sistemas Operativos", "value": 78 },
+    { "label": "Frontend",          "value": 55 },
+    { "label": "Hardware",          "value": 65 }
+  ]
+}
